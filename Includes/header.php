@@ -80,9 +80,7 @@
                 >Services</a
               >
               <div class="dropdown-menu fade-up m-0">
-                <a href="booking.html" class="dropdown-item">Booking</a>
-                <a href="team.html" class="dropdown-item">Technicians</a>
-                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                <a href="booking.php" class="dropdown-item">Booking</a>
                 <a href="404.html" class="dropdown-item">404 Page</a>
               </div>
             </div>
