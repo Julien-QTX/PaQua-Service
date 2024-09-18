@@ -4,6 +4,9 @@
 
     ?>
 
+ <!-- Template Stylesheet -->
+ <link href="../css/style.css" rel="stylesheet" />
+ <link href="../css/bootstrap.min.css" rel="stylesheet" />
 
  <!-- Page Header Start -->
  <div class="container-fluid page-header mb-5 py-5">

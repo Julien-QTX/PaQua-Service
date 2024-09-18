@@ -36,14 +36,14 @@
 
 <body>
 
-    <!-- Spinner Start -->
+    <!-- Spinner Start
     <div id="spinner"
         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" style="width: 3rem; height: 3rem" role="status">
             <span class="sr-only">Chargement...</span>
         </div>
     </div>
-    <!-- Spinner End -->
+     Spinner End -->
 
     <!-- Topbar Start -->
     <div class="container-fluid bg-light d-none d-lg-block">
@@ -78,7 +78,7 @@
     <!-- Navbar Start -->
     <div class="container-fluid nav-bar bg-light">
         <nav class="navbar navbar-expand-lg navbar-light bg-white p-3 py-lg-0 px-lg-4">
-            <a href="./index.php" class="navbar-brand d-flex align-items-center m-0 p-0 d-lg-none">
+            <a href="../index.php" class="navbar-brand d-flex align-items-center m-0 p-0 d-lg-none">
                 <h1 class="text-primary m-0">PaQua'Services</h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -91,7 +91,7 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
                         <div class="dropdown-menu fade-up m-0">
-                            <a href="./Pages/booking.php" class="dropdown-item">Booking</a>
+                            <a href="../Pages/booking.php" class="dropdown-item">Booking</a>
                             <a href="./Pages/404.php" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
