@@ -1,6 +1,6 @@
 <?php
 
-include '../Includes/header.php';
+include './Includes/header.php';
 
 
 ?>
@@ -16,7 +16,7 @@ include '../Includes/header.php';
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.1s">
                 <div class="overflow-hidden">
-                    <img class="img-fluid w-100 h-100" src="../img/téléchargement (3).jpg" alt="" />
+                    <img class="img-fluid w-100 h-100" src="./img/téléchargement (3).jpg" alt="" />
                 </div>
                 <div class="d-flex align-items-center justify-content-between bg-light p-4">
                     <h5 class="text-truncate me-3 mb-0">Entretien automobie</h5>
@@ -26,7 +26,7 @@ include '../Includes/header.php';
             </div>
             <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.3s">
                 <div class="overflow-hidden">
-                    <img class="img-fluid w-100 h-100" src="../img/téléchargement (4).jpg" alt="" />
+                    <img class="img-fluid w-100 h-100" src="./img/téléchargement (4).jpg" alt="" />
                 </div>
                 <div class="d-flex align-items-center justify-content-between bg-light p-4">
                     <h5 class="text-truncate me-3 mb-0">Déplacement</h5>
@@ -36,7 +36,7 @@ include '../Includes/header.php';
             </div>
             <div class="col-lg-4 col-md-6 service-item-top wow fadeInUp" data-wow-delay="0.5s">
                 <div class="overflow-hidden">
-                    <img class="img-fluid w-100 h-100" src="../img/téléchargement (5).jpg" alt="" />
+                    <img class="img-fluid w-100 h-100" src="./img/téléchargement (5).jpg" alt="" />
                 </div>
                 <div class="d-flex align-items-center justify-content-between bg-light p-4">
                     <h5 class="text-truncate me-3 mb-0">Services d'Urgence</h5>
@@ -83,10 +83,10 @@ include '../Includes/header.php';
             </div>
             <div class="col-lg-6 pt-4" style="min-height: 500px">
                 <div class="position-relative h-100 wow fadeInUp" data-wow-delay="0.5s">
-                    <img class="position-absolute img-fluid w-100 h-100" src="../img/téléchargement (6).jpg"
+                    <img class="position-absolute img-fluid w-100 h-100" src="./img/téléchargement (6).jpg"
                         style="object-fit: cover; padding: 0 0 50px 100px" alt="" />
                     <img class="position-absolute start-0 bottom-0 img-fluid bg-white pt-2 pe-2 w-50 h-50"
-                        src="../img/téléchargement (7).jpg" style="object-fit: cover" alt="" />
+                        src="./img/téléchargement (7).jpg" style="object-fit: cover" alt="" />
                 </div>
             </div>
         </div>

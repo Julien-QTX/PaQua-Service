@@ -49,7 +49,7 @@
     <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row align-items-center top-bar">
             <div class="col-lg-3 col-md-12 text-center text-lg-start">
-                <a href="" class="navbar-brand m-0 p-0">
+                <a href="./index.php" class="navbar-brand m-0 p-0">
                     <h1 class="text-primary m-0">PaQua'Service</h1>
                 </a>
             </div>
@@ -78,7 +78,7 @@
     <!-- Navbar Start -->
     <div class="container-fluid nav-bar bg-light">
         <nav class="navbar navbar-expand-lg navbar-light bg-white p-3 py-lg-0 px-lg-4">
-            <a href="../index.php" class="navbar-brand d-flex align-items-center m-0 p-0 d-lg-none">
+            <a href="./index.php" class="navbar-brand d-flex align-items-center m-0 p-0 d-lg-none">
                 <h1 class="text-primary m-0">PaQua'Services</h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -87,15 +87,15 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav me-auto">
                     <a href="./index.php" class="nav-item nav-link active">Accueil</a>
-                    <a href="./Pages/about.php" class="nav-item nav-link">A Propos</a>
+                    <a href="./about.php" class="nav-item nav-link">A Propos</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
                         <div class="dropdown-menu fade-up m-0">
-                            <a href="../Pages/booking.php" class="dropdown-item">Booking</a>
-                            <a href="./Pages/404.php" class="dropdown-item">404 Page</a>
+                            <a href="./booking.php" class="dropdown-item">Booking</a>
+                            <a href="./404.php" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
-                    <a href="../Pages/contact.php" class="nav-item nav-link">Contact</a>
+                    <a href="./contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="mt-4 mt-lg-0 me-lg-n4 py-3 px-4 bg-primary d-flex align-items-center">
                     <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
